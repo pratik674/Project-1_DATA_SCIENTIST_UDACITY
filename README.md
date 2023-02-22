@@ -27,7 +27,7 @@ The data invokes questions related to multiple factors,not excluding, neighbourh
   d. What is the occupancy rate, for thirty days, in the neighborhood? What is the revenue generatedfor the hosts?
   
 #### Data Understanding
-The data comprises three csv files, calendar, listing and reviews. The calendar contains information about listing ID of the host, the time (yy-mm-dd) and the price at that time. This gives us an id of the pricing trend over a period of time. Listing csv has a plethor of information, related to which host has what type of property in a particular neighbourhood. Guests incoming and extra people add on for a particular type of property booked gives an idea of how much revenue any particular host earns. One can even find which host has generated the most revenue and through what means. Every neighbourhood offers something different and that is reflected in the average property prices. 
+The data comprises three csv files, calendar, listing and reviews. The calendar contains information about listing ID of the host, the time (yy-mm-dd) and the price at that time. This is useful to analyze  the pricing trend over a period of time. Listing csv has a plethor of information, related to which host has what type of property in a particular neighbourhood. Guests incoming and extra people add on for a particular type of property booked gives an idea of how much revenue any particular host earns. One can even find which host has generated the most revenue and through what means. Every neighbourhood offers something different and that is reflected in the average property prices. 
 
 
 ### File description
