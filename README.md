@@ -23,7 +23,7 @@ The data invokes questions related to multiple factors, like neighbourhood of ch
 There are four notebooks, pertaining to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.
 
 ### Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available at https://medium.com/@iitkgp.pratik/would-you-rather-be-a-host-or-a-guest-for-airbnb-in-seattle-1336a3f86c92
 
 ###Licensing, Authors, Acknowledgements
 Must give credit to Airbnb for the data.This data is licensed under a Creative Commons Attribution 4.0 International License.You can find more by following the link here https://www.kaggle.com/datasets/airbnb/seattle. Otherwise, feel free to use the code here as you would like!
