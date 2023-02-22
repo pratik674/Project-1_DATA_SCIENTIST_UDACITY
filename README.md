@@ -32,13 +32,17 @@ The data comprises three csv files, calendar, listing and reviews. The calendar 
 
 ### File description
 There are four notebooks, pertaining to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  
-##### vibe.ipynb : This shows the pricing of top and bottom most neighbourhoods in Seattle
-##### busy_time.ipynb.ipynb: Explores the pricing and availabilty over the course of an year. 
-##### trend_guest_hosts_time.ipynb: to find the trend of number of guests and the number of listings provided by the host over a span of 8 years
-##### occupancy_rate: analyses the 30 day availability data and presents a picture of which neighbourhood is busy for the next 30 days. Additional total revenue generated neighbourhood wise is also shown via this code. We get an idea , from Airbnb's perspective, the top performing neighbourhoods.
+
+ ##### 1. vibe.ipynb : This shows the pricing of top and bottom most neighbourhoods in Seattle
+ 
+ ##### 2. busy_time.ipynb.ipynb: Explores the pricing and availabilty over the course of an year. 
+ 
+ ##### 3.  trend_guest_hosts_time.ipynb: to find the trend of number of guests and the number of listings provided by the host over a span of 8 years
+ 
+ ##### 4. occupancy_rate.ipynb: analyses the 30 day availability data and presents a picture of which neighbourhood is busy for the next 30 days. Additional total revenue generated neighbourhood wise is also shown via this code. We get an idea , from Airbnb's perspective, the top performing neighbourhoods.
 
 ### Results
 The main findings of the code can be found at the post available at https://medium.com/@iitkgp.pratik/would-you-rather-be-a-host-or-a-guest-for-airbnb-in-seattle-1336a3f86c92
 
-###Licensing, Authors, Acknowledgements
+### Licensing, Authors, Acknowledgements
 Must give credit to Airbnb for the data.This data is licensed under a Creative Commons Attribution 4.0 International License.You can find more by following the link here https://www.kaggle.com/datasets/airbnb/seattle. Otherwise, feel free to use the code here as you would like!
